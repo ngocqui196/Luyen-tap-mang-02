@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 5</title>
+</head>
+<body>
+<script>
+    let arrA = "codegym";
+    let arrB = "cpdegym";
+    let result;
+    for (let i = 0; i < arrA.length; i++) {
+        for (let j = i; j < arrB.length; j++) {
+            if (arrA[i] == arrB[j]) {
+                result = true;
+                break;
+            }
+            else {
+                result = false;
+                break;
+            }
+
+        }
+    }
+    document.write(result)
+</script>
+</body>
+</html>
