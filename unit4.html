@@ -5,11 +5,23 @@
     <title>Bài 4</title>
 </head>
 <body>
+<input type="text" id="demo">
+<button onclick=" countText()">Nhập</button>
 <script>
-    let k = 0;
-    let array = "df6gf51h";
-         k = array.length;
-    console.log(k)
+    function countText() {
+        let count = 0;
+        let text = document.getElementById("demo").value;
+        if (text[0] !== ' ' && text[text.length - 1] !== ' ') {
+            count ++;
+        }
+        for (let i = 0; i < text.length; i++) {
+            if (text[i] === ' ' && text[i + 1] !== ' ') {
+                count++
+            }
+        }
+        console.log(count);
+    }
+
 </script>
 </body>
 </html>

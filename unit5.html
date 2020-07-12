@@ -7,11 +7,11 @@
 <body>
 <script>
     let arrA = "codegym";
-    let arrB = "cpdegym";
+    let arrB = "codegym";
     let result;
     for (let i = 0; i < arrA.length; i++) {
         for (let j = i; j < arrB.length; j++) {
-            if (arrA[i] == arrB[j]) {
+            if (arrA[i] === arrB[j]) {
                 result = true;
                 break;
             }
@@ -19,7 +19,9 @@
                 result = false;
                 break;
             }
-
+        }
+        if (!result){
+            break;
         }
     }
     document.write(result)

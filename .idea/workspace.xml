@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d131309-e781-4180-a9b8-aa7736e807e0" name="Default Changelist" comment="" />
+    <list default="true" id="1d131309-e781-4180-a9b8-aa7736e807e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit1.html" beforeDir="false" afterPath="$PROJECT_DIR$/unit1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit2.html" beforeDir="false" afterPath="$PROJECT_DIR$/unit2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit3.html" beforeDir="false" afterPath="$PROJECT_DIR$/unit3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit4.html" beforeDir="false" afterPath="$PROJECT_DIR$/unit4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit5.html" beforeDir="false" afterPath="$PROJECT_DIR$/unit5.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Luyện tập mảng 02" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,7 +24,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bWjqKrD8viHHpftDhRsMLiUzGx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -46,11 +60,21 @@
       <option name="presentableId" value="Default" />
       <updated>1588754932384</updated>
       <workItem from="1588754933860" duration="5828000" />
-      <workItem from="1588814454969" duration="14067000" />
+      <workItem from="1588814454969" duration="14304000" />
+      <workItem from="1588900694099" duration="1886000" />
+      <workItem from="1594349634105" duration="103000" />
+      <workItem from="1594349904146" duration="3139000" />
+      <workItem from="1594528070646" duration="10842000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1594465885001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594465885001" />
   </component>
 </project>
